@@ -1,0 +1,27 @@
+:root {
+    --background-image: url("/cubes-light.png");
+    --color-foreground: #465563;
+    --color-breadcrumb: #337ab7;
+    --color-toc-hover: #4c4c4c;
+    --color-background: #ffffff;
+    --color-background-nav: #e9ecef;
+    --color-background-subnav: #fff;
+    --color-background-dark: #f8f8f8;
+    --color-background-table-alt: #f9f9f9;
+    --color-background-toc: #f1f1f1;
+}
+
+body {
+    color: var(--color-foreground);
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    word-wrap: break-word;
+    background-color: var(--color-background);
+    background-image: var(--background-image);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
