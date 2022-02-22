@@ -1,8 +1,7 @@
 :root {
     --background-image: url("/cdn/eco-services-status/cubes-light.png");    
     --body-background-color: #ffffff;
-    --body-text-color: #f0ffff;
-    --card-background-color: #002b29;
+    --body-text-color: #000;
     --nav-background-color: #e9ecef;
     --nav-border-bottom-color: #4c4c4c;
 }
