@@ -1,3 +1,0 @@
-Eco Services Status CDN
-=======================
-
